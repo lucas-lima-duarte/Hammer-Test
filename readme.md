@@ -1,8 +1,8 @@
 # Hammer Test
 
-# Cypress Test Execution Guide
+# Execution Guide
 
-Welcome to the Cypress Test Execution Guide! In this guide, we'll walk you through the process of running existing Cypress test specifications to verify the functionality of a web application.
+Welcome to the Hammer Test Execution Guide! In this guide, we'll walk you through the process of running existing Cypress test specifications to verify the functionality of a web application.
 
 ## Prerequisites
 
