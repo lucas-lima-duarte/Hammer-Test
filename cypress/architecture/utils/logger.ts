@@ -1,6 +1,5 @@
 const prettier = require('prettier');
 
-
 export class Logger {
     static LogResponseBody(response) {
         if (Cypress.env('debug')) {

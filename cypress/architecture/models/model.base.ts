@@ -4,13 +4,13 @@ import { faker } from '@faker-js/faker';
 
 export class ModelBase {
 
-    // Instance Proprieties
+    // Instance Proprieties (develop a Instance Object)
     id: number
     guidId: string
     code?: string
     name: string
 
-    //Requests Proprieties
+    //Requests Proprieties (develop a Request Object)
     statusText: string
     payload: any
     response: Cypress.Response<any>

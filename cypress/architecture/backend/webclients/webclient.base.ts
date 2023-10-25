@@ -21,8 +21,6 @@ export class WebClientBase {
             Logger.LogResponseBody(response)
             object.BuildResponse(response)
 
-        });
-        
+        });   
     }
-
 }
