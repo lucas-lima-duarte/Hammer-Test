@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "open-dev": "npx cypress open --env envName=dev",
+    "open-hml": "npx cypress open --env envName=hml",
+    "open-stag": "npx cypress open --env envName=stag",
+    "open-prod": "npx cypress open --env envName=prod"
   },
   "keywords": [],
   "author": "",
