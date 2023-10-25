@@ -27,3 +27,14 @@ Then(/^a fully assembled Ferrari must be ready$/, () => {
 	return true;
 });
 
+
+
+When(/^start assembling the Bus$/, () => {
+	return true;
+});
+
+Then(/^a fully assembled Bus must be ready$/, () => {
+	return true;
+});
+
+
